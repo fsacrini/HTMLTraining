@@ -1,0 +1,43 @@
+body {
+  font-family: "Arial", "Helvetica", sans-serif;
+}
+
+p {
+
+  }
+
+  h1 {
+    font-family: serif;
+  }
+  
+  h2 {
+    font-family: sans-serif;
+  }
+
+    /*
+    font-family: "Arial", "Helvetica", sans-serif; Font usutilizada, tentar Arial, se não Helvetica
+    color: blue; Cor do texto 
+    background-color: yellow; Cor do fundo do texto
+    
+    Alinhamento e decoração de texto:
+
+    text-align: right; Alinhamento do texto
+    line-height: 3px;  tamanho da altura de cada linha
+    letter-spacing: 3px;  tamanho do espaço entre cada letra
+    word-spacing: 5px;  tamanho do espaço entre cada palavra
+    text-indent: 30px;  tamanho da margem da primeira linha do texto 
+    
+    Imagem de Fundo:
+
+    background-image: url(sobre-background.jpg); A imagem será usada no fundo do elemento, o arquivo terá como base o local onde esta o arquivo css.
+    
+    Bordas:
+
+    border-color: red; <- Para a cor surta efeito, é necessario que o style sejá diferente de None.
+    border-width: 1px;
+    boder-style: solid; <- Existem varios tipos de bordas, tais como dashed, dotted, double, groove, etc..
+
+    or
+
+    border: 1px solid red;
+    */
